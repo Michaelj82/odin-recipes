@@ -1,0 +1,61 @@
+a:link, a:visited,  a:hover, a:active
+{
+    color: #ffcc66;
+    background-color: #663300;
+}
+
+
+
+body{
+    background-color: #ffcc99;
+}
+
+.centered_list{
+    display:table;
+    margin: 0 auto;
+    text-align: left;
+    font-size: 20px;
+}
+
+.description_box,
+.centered_list.recipe_page{
+    font-size: 30px;
+    background-color: white;
+}
+
+
+.smaller_image{
+    height: auto;
+    width: 200px;
+
+}
+
+.recipe_page_image{
+    height:auto;
+    width:400px
+}
+
+.center_image{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header,
+.title{
+    text-align: center;
+    color: #ffcc66;
+    background-color: #663300;
+}
+
+.header{
+    font-size: 36px;
+}
+
+.title{
+    font-size: 72px;
+}
+
+
+
+
